@@ -7,7 +7,6 @@
 
 ## I'm a  Computer Science & engineering UG|Aspiring Data Science |Machine Learning | Python| Looking for great Oppurtunity !!
 
--  
 - 🌱 I’m currently Working on Data Science based projects
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
