@@ -41,18 +41,8 @@ I am AUSTIN . An enthusiastic Computer Science engineer with sincere and intense
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="flask" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="raspberry-pi" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
-<img align="left" alt="arduino" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
-<img align="left" alt="sublime-text" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />
-
-<img align="left" alt="django" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -62,37 +52,9 @@ I am AUSTIN . An enthusiastic Computer Science engineer with sincere and intense
 
 ---
 
-### 📺 Latest YouTube Videos
-![viwes](https://img.shields.io/youtube/views/af9BF0Nu9ZQ?style=social)
-<!-- YOUTUBE:START -->
-- [Learn Django Web Development With 5 Real World Projects](https://www.youtube.com/watch?v=liwObGGYxOA)
-- [Learn Python With 20+ Real World Projects [In 2020] || Udemy Course](https://www.youtube.com/watch?v=EPwiFC3Ea5s)
-- [How to make Iron Man JARVIS  |  Iron Man Jarvis AI Desktop Voice Assistant [FULL COURSE]](https://www.youtube.com/watch?v=Sn-p50z5yV0)
-- [Learn Home Automation Using J.A.R.V.I.S AI With Arduino || Udemy Course [Full Course]](https://www.youtube.com/watch?v=98qcyQFJ_O0)
-- [Learn To Create AI Assistant (JARVIS) With Python || Udemy Course [Full Course]](https://www.youtube.com/watch?v=af9BF0Nu9ZQ)
-<!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/c/GetSetCoding47)
-
----
-
-
-:zap: GitHub Stats
-
-![ReadMe Card](https://github-readme-stats.codestackr.vercel.app/api?username=Arbazkhan4712&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arbazkhan4712&layout=compact&theme=radical)](https://github.com/Arbazkhan4712/)
-
-
----
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Arbazkhan4712&repo=Python-Quarantine-Projects&theme=radical)
-
----
-
-<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" /> 
-
-[website]: https://www.arbaazkhan.ml/index.html
-[course]: https://www.udemy.com/course/learn-python-with-20-real-world-projects/?referralCode=E16F86C039D8C509AF0E
-[twitter]: https://twitter.com/Arbazkh87773546
-[youtube]: https://www.youtube.com/channel/UCGYWLvjmBouSwjJIzeNDuzw
-[instagram]: https://www.instagram.com/getsetcode47/
-[linkedin]: https://www.linkedin.com/in/arbaz-khan-a73b71187
-[whatsapp]: https://wa.me/+918788855641
+<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" />
+[twitter]: https://twitter.com/austin_titty?s=08
+[instagram]: https://www.instagram.com/atp.here/
+[linkedin]: hhttps://www.linkedin.com/in/austin-titty-philip-160866172/
+[whatsapp]: https://wa.me/+918590285639
