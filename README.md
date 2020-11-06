@@ -15,33 +15,26 @@ I am AUSTIN . An enthusiastic Computer Science engineer with sincere and intense
 
 
 
-### Hi there, I'm AUSTIN TITTY PHILIP- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### Hi there, I'm AUSTIN TITTY PHILIP <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-[![Website](https://img.shields.io/website?label=Arbaazkhan.Ml&style=for-the-badge&url=https://www.arbaazkhan.ml/index.html)](https://www.arbaazkhan.ml/index.html)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
-![github](https://img.shields.io/github/followers/Arbazkhan4712?style=social)
 
   <img align="right" alt="GIF" src="https://github.com/Arbazkhan4712/Arbazkhan4712/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a  Python Developer,Computer Science Engineer,Artificial Intelligence Enthusiast and Teacher!!
+## I'm a  Computer Science & engineering UG|Aspiring Data Science |Machine Learning | Python| Looking for great Oppurtunity !!
 
--  I just launched my new course: [Learn Python With 20+ Real World Projects ][course]!
-- 🌱 I’m currently Working on Machine Learning based projects
+-  
+- 🌱 I’m currently Working on Data Science based projects
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to automate my tasks with programming
+- ⚡ Fun fact: I love to automate my tasks with Love 
 
 ### Connect with me:
 
-[<img align="left" alt="Arbaz khan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Arbaz khan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Arbaz khan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Arbaz khan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Arbaz khan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Arbaz khan | whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="Austin Titty Philip | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Austin Titty Philip | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Austin Titty Philip | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Austin Titty Philip  | whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 <br />
 
 ### Languages and Tools:
