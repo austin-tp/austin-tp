@@ -7,10 +7,7 @@
 - 💬 Ask me about anything, I will we happy to help 👦🏻🥰
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/austin-tp/">LinkedIn</a> 😍
 - 🤗 Love to make new connections 👫🐥
-- ⚡ Fun fact: I'am an Original 🐺🧛🏻‍♂️🔥 <hr>
-
-
-### ✨ Social Media Profiles 
+- ⚡ Fun fact: I'am an Original 🐺🧛🏻‍♂️🔥 <hr
 
 ### ✨ Social Media Profiles 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-AbhinavDubey-black?style=social&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/austin-tp/)](https://www.linkedin.com/in/austin-tp/)&nbsp;&nbsp;&nbsp;
