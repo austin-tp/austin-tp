@@ -18,7 +18,7 @@
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/austin_titty?s=08) 
 [<img src="https://img.shields.io/badge/-Instagram-red?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/atp.here/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/austin-tp/) 
-[<img src="https://img.shields.io/badge/Whatsapp-%230A0A0A.svg?&style=for-the-badge&logo=whatsappo&logoColor=green" />](https://wa.me/+918590285639)
+[<img src="https://img.shields.io/badge/Whatsapp-%230A0A0A.svg?&style=for-the-badge&logo=whatsapp&logoColor=green" />](https://wa.me/+918590285639)
 [<img src="https://img.shields.io/badge/-GMail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />](mailto:austintphilip@gmail.com)
 
 <!--[twitter]: https://twitter.com/austin_titty?s=08
