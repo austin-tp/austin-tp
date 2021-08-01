@@ -11,6 +11,12 @@
 
 
 ### ✨ Social Media Profiles 
+
+### ✨ Social Media Profiles 
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-AbhinavDubey-black?style=social&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/austin-tp/)](https://www.linkedin.com/in/austin-tp/)&nbsp;&nbsp;&nbsp;
+[![Twitter Badge](http://img.shields.io/badge/-@alex_abhi43-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/austin_titty?s=08)](https://twitter.com/austin_titty?s=08)&nbsp;&nbsp;&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=austintphilip@gmail.com)](austintphilip@gmail.com)&nbsp;&nbsp;&nbsp; -->
+
 <!--[twitter]: https://twitter.com/austin_titty?s=08
 [instagram]: https://www.instagram.com/atp.here/
 [linkedin]: hhttps://www.linkedin.com/in/austin-titty-philip-160866172/
@@ -33,10 +39,3 @@
 <code><img height="35" src="https://static.djangoproject.com/img/logos/django-logo-negative.png"></code><br><br>
 <code><img height="35" src="https://image.pngaaa.com/145/98145-small.png"/></code>&nbsp;&nbsp;
 <code><img height="35" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEA3yREH_BPrw/company-logo_200_200/0/1595432417222?e=2159024400&v=beta&t=u6wA4o7mHaNVS7FPJV0o83sV6VLoY-AnERINxsksAFU"/></code><br>
-
-<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" />
-
-[twitter]: https://twitter.com/austin_titty?s=08
-[instagram]: https://www.instagram.com/atp.here/
-[linkedin]: hhttps://www.linkedin.com/in/austin-titty-philip-160866172/
-[whatsapp]: https://wa.me/+918590285639
