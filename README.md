@@ -1,13 +1,21 @@
-### Hi Austin here 👋 <div  align="right"> <img src="https://komarev.com/ghpvc/?username=Abhinav-26&color=green" alt="Abhinav-26"/> </div>
+### Hi Austin here 👋 <div  align="right"> <img src="https://komarev.com/ghpvc/?username=austin-tp&color=green" alt="Austin-tp"/> </div>
 <center><img align="right" alt="GIF" width="420" height="360" src="https://www.activebittechnologies.com/img/abt/wed-development.gif" /></center>
 
 - 🔭 I’m currently focusing on upgrading skills 👨⌛️
-- 👯 I’m open to collaborate on open-source Projects in <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Webdev, DevOps, ComputerVision, Linux 🤗🥰
+- 👯 I’m open to collaborate on open-source Projects in <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Machine Learing, DevOps, ComputerVision, Linux 🤗🥰
 - 🤔 Into Development since last 2 years 😎
 - 💬 Ask me about anything, I will we happy to help 👦🏻🥰
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/austin-tp/">LinkedIn</a> 😍
 - 🤗 Love to make new connections 👫🐥
-- ⚡ Fun fact: I'am an Original 🐺🧛🏻‍♂️🔥 <hr/>
+- ⚡ Fun fact: I'am an Original 🐺🧛🏻‍♂️🔥 <hr>
+
+<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" />
+
+[twitter]: https://twitter.com/austin_titty?s=08
+[instagram]: https://www.instagram.com/atp.here/
+[linkedin]: hhttps://www.linkedin.com/in/austin-titty-philip-160866172/
+[whatsapp]: https://wa.me/+918590285639 <img/>
+
 
 ### ✨ Languages & Tools I worked On
 <code><img height="35" src="https://img.icons8.com/color/48/000000/python.png"/></code>&nbsp;&nbsp;
