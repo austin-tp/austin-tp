@@ -9,12 +9,14 @@
 - 🤗 Love to make new connections 👫🐥
 - ⚡ Fun fact: I'am an Original 🐺🧛🏻‍♂️🔥 <hr>
 
-<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" />
 
-[twitter]: https://twitter.com/austin_titty?s=08
+### ✨ Social Media Profiles 
+<!--[twitter]: https://twitter.com/austin_titty?s=08
 [instagram]: https://www.instagram.com/atp.here/
 [linkedin]: hhttps://www.linkedin.com/in/austin-titty-philip-160866172/
-[whatsapp]: https://wa.me/+918590285639 <img/>
+[whatsapp]: https://wa.me/+918590285639 
+ -->
+
 
 
 ### ✨ Languages & Tools I worked On
