@@ -1,4 +1,4 @@
-### Hi Austin here 👋 <div  align="right"> <img src="https://komarev.com/ghpvc/?username=austin-tp&color=green" alt="Austin-tp"/> </div>
+### Hi Austin Titty Philip here 👋 <div  align="center"> <img src="https://komarev.com/ghpvc/?username=austin-tp&color=green" alt="Austin-tp"/> </div>
 <center><img align="right" alt="GIF" width="420" height="360" src="https://www.activebittechnologies.com/img/abt/wed-development.gif" /></center>
 
 - 🔭 I’m currently focusing on upgrading skills 👨⌛️
