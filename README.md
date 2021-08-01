@@ -10,9 +10,16 @@
 - ⚡ Fun fact: I'am an Original 🐺🧛🏻‍♂️🔥 <hr
 
 ### ✨ Social Media Profiles 
+                                               
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-AbhinavDubey-black?style=social&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/austin-tp/)](https://www.linkedin.com/in/austin-tp/)&nbsp;&nbsp;&nbsp;
 [![Twitter Badge](http://img.shields.io/badge/-@alex_abhi43-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/austin_titty?s=08)](https://twitter.com/austin_titty?s=08)&nbsp;&nbsp;&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=austintphilip@gmail.com)](austintphilip@gmail.com)&nbsp;&nbsp;&nbsp; -->
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:austintphilip@gmail.com)](mailto:austintphilip@gmail.com)&nbsp;&nbsp;&nbsp; -->
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/austin_titty?s=08) 
+[<img src="https://img.shields.io/badge/-Instagram-red?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.reddit.com/user/abhinavd26)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/austin-tp/) 
+[<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />](https://dev.to/abhinavd26)
+[<img src="https://img.shields.io/badge/-GMail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />](mailto:austintphilip@gmail.com)
 
 <!--[twitter]: https://twitter.com/austin_titty?s=08
 [instagram]: https://www.instagram.com/atp.here/
