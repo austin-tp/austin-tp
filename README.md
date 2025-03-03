@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently focusing on upgrading skills 👨⌛️
-- 👯 I’m open to collaborate on open-source Projects in <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Machine Learing, DevOps, ComputerVision, Linux 🤗🥰
+- 👯 I’m open to collaborate on open-source Projects in <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Machine Learing, DevOps,🤗🥰
 - 🤔 Into Development since last 2 years 😎
 - 💬 Ask me about anything, I will we happy to help 👦🏻🥰
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/austin-tp/">LinkedIn</a> 😍
