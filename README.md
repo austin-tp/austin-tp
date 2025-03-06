@@ -7,7 +7,7 @@
 - 💬 Ask me about anything, I will we happy to help 👦🏻🥰
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/austin-tp/">LinkedIn</a> 😍
 - 🤗 Love to make new connections 👫🐥
-- ⚡ Fun fact: I'am an Original 🐺🧛🏻‍♂️🔥 <hr
+- ⚡ Fun fact: I'am an Original 🐺🧛🏻‍♂️🔥
 
 ### ✨ Social Media Profiles 
                                                
